@@ -1,0 +1,14 @@
+header {
+    width: 100wv;
+    height: 4rem;
+    padding: 5px;
+    background-color: rgb(27, 137, 240);
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+    vertical-align: middle;
+}
+
+header p {
+    margin-left: 3rem;
+}
