@@ -1,4 +1,5 @@
 footer {
+    display: table;
     height: 4rem;
     padding: 5px;
     background-color: rgb(27, 137, 240);
@@ -11,6 +12,9 @@ footer {
 }
 
 footer p {
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0;
     text-align: center;
 }
 

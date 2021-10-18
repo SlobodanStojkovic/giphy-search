@@ -1,14 +1,22 @@
 header {
-    width: 100wv;
+    display: table;
     height: 4rem;
     padding: 5px;
     background-color: rgb(27, 137, 240);
     color: white;
     font-weight: bolder;
-    font-size: larger;
-    vertical-align: middle;
+    font-size: larger;  
+    width: 100%;
 }
 
 header p {
-    margin-left: 3rem;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0;
+    padding-left: 3rem;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
 }

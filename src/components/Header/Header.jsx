@@ -4,7 +4,7 @@ export const Header = () => {
     return (
         <header>
             <p>
-                Giphy App
+                <a href="./home">Giphy App </a>
             </p>
         </header>
     )

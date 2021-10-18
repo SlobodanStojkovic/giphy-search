@@ -1,6 +1,10 @@
+You can see how this Web application works by clicking here >>> [giphy-search](https://slobodanstojkovic.github.io/giphy-search/)
+
 An app which can be used for searching GIF’s.
 User can type some phrase in input field and then press enter.
 When all gifs are received from giphy service, you can shown them bellow search.
+
+Technologies used for creating this app are React.JS, JavaScript ES6, AJAX, HTML5, CSS3.
 
 
 

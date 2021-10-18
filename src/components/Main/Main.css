@@ -14,6 +14,21 @@ main input {
     padding-left: 3rem;
     overflow-y: auto;
     margin-bottom: 3rem;
+    border-radius: 5px;
+}
+
+main button {
+    padding: 0;
+    border: none;
+    background-color: aliceblue;
+}
+
+.searchIcon {
+    padding: 0;
+    width: 25px;
+    height: 25px;
+    padding-bottom: 0.25rem;
+
 }
 
 main img {
